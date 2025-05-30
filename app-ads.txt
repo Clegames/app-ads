@@ -2440,7 +2440,6 @@ xandr.com, 13799, RESELLER
 xandr.com, 14082, RESELLER
 yieldmo.com, 3591550211052216798, RESELLER, 6a92c77cfc3d2258
 zmaticoo.com, 5135655, RESELLER
-yandex.com, 306397791, DIRECT
 betweendigital.com, 43554, RESELLER
 openx.com, 541177349, RESELLER, 6a698e2ec38604c6
 pubmatic.com, 159668, RESELLER, 5d62403b186f2ace
