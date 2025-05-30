@@ -1268,6 +1268,7 @@ thebrave.io, 1234634, RESELLER, c25b2154543746ac
 thebrave.io, 9840732, RESELLER, c25b2154543746ac
 themediagrid.com, SWH94X, RESELLER, 35d5010d7789b49d
 unity.com, 1400174, DIRECT, 96cabb5fbdde37a7
+ownerdomain=clegames.com
 video.unrulymedia.com, 123476257, RESELLER
 video.unrulymedia.com, 170071695, RESELLER
 video.unrulymedia.com, 3383599585, RESELLER, a670c89d4a324e47
