@@ -3529,3 +3529,5 @@ sonobi.com, 2b51f34067, RESELLER, d1a215d9eb5aee9e
 rubiconproject.com, 26386, RESELLER, 0bfd66d529a55807
 appnexus.com, 9382, RESELLER, f5ab79cb980f11d1
 orangeclickmedia.com, c-1181, RESELLER
+digitalturbine.com,222393,DIRECT,1ad675c9de6b5176
+fyber.com,222393,DIRECT,1ad675c9de6b5176
